@@ -1,4 +1,3 @@
-<!--
 PCLiquidations is the leading online retailer of quality refurbished technology for businesses, schools, government organizations, and home users.
 
 Since 1991, we've been transforming the way organizations acquire IT equipment. We specialize in professionally refurbished computers, laptops, monitors, business phone systems, servers, networking, and printers that deliver enterprise-grade performance at a fraction of the cost of new equipment. Our extensive inventory includes over 3,000 models from trusted brands like Dell, HP, Lenovo, Apple, Poly, Panasonic, and Yealink.
@@ -12,4 +11,3 @@ Beyond selling refurbished equipment, we're committed to environmental responsib
 Our Jacksonville, Florida headquarters houses a state-of-the-art 55,000+ square foot distribution center. From here, we ship worldwide and offer free shipping on online orders over $500. Our highly rated customer service team is available via chat, email, or phone to provide expert guidance and help you find the right technology solutions for your needs.
 
 Ready to upgrade your technology without breaking your budget? Discover how PCLiquidations can power your success with premium refurbished equipment. Call us at 888-654-3376 or visit pcliquidations.com today.
--->
